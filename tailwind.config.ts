@@ -73,11 +73,6 @@ const config: Config = {
         "primary-lighter": "",
         "primary-lightest": "",
 
-        // * Secondary
-        "secondary-clicked": "#115b94",
-        "secondary-hover": "#167ac6",
-        "secondary-default": "#1c98f7",
-
         // * Neutral
         "neutral-black": "#111928",
         "neutral-base": "#374151",
@@ -89,14 +84,6 @@ const config: Config = {
         "neutral-lightest": "#F9FAFB",
         "pure-white": "#ffffff",
         "pure-black": "#000000",
-
-        // * Special
-        "accent-orange": "#FFAB53",
-        "accent-orange-darker": "#ff9220",
-        "accent-red-base": "#E02424",
-        "accent-red-light": "#F05252",
-        "accent-red-lighter": "#FBD5D5",
-        "accent-red-lightest": "#FDF2F2",
 
         // non-standard color
         "yellow-base": "#ffce1f",
