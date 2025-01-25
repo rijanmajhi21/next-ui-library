@@ -438,6 +438,13 @@ const config: Config = {
             backgroundClip: "paddingBox",
           },
         },
+        //Carousel animate state: paused || running
+        ".animate-pause": {
+          "animation-play-state": "paused",
+        },
+        ".animate-play": {
+          "animation-play-state": "running",
+        },
         ".text-stroke": {
           color: "transparent",
           WebkitTextStroke: "1px #525252", // Stroke color
